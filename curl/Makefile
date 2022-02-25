@@ -1,7 +1,7 @@
 
 # Image URL to use for building/pushing image
 IMAGE ?= aanogueira/curl
-TAG ?= alpine-13.15.0
+TAG ?= alpine-3.15.0
 
 .PHONY: help
 help: ## Display this help
